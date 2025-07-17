@@ -1,0 +1,15 @@
+torch
+transformers==4.33.2
+nltk
+sacremoses
+pandas
+regex
+mock
+mosestokenizer
+bitsandbytes
+scipy
+accelerate
+datasets
+sentencepiece
+gradio
+git+https://github.com/VarunGumma/IndicTransToolkit.git
